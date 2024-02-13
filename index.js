@@ -8,11 +8,11 @@ function RolarParaDireita() {
     Leonardo.style ="display:none"
     Bruna.style ="display:flex"
     setaDireita.style = "display:none"
-    setaEsquerda.style = "display:flex; margin-top:55px"    
+    setaEsquerda.style = "display:flex; margin-top:55px"  
 }
-function RolarParaEsquerda(){
+function RolarParaEsquerda() {
     Leonardo.style="display:flex"
     Bruna.style="display:none"
-    setaDireita.style="display:flex; margin-top:55px"  
+    setaDireita.style="display:flex; margin-top:35px"  
     setaEsquerda.style = "display:none"
 }
